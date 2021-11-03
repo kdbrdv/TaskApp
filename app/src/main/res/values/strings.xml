@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TaskApp</string>
+    <string name="title_home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="welcome">Welcome!</string>
+
+    <string name="title_profile">Profile</string>
+    <string name="title1">Hello</string>
+    <string name="title2">Fast</string>
+    <string name="taskText">Введите задачу</string>
+
+    <string name="title3">Description</string>
+    <string name="titleDesc1">How are you?</string>
+    <string name="titleDesc2">Fastest and flexible</string>
+    <string name="titleDesc3">Lets go</string>
+</resources>
